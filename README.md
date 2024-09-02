@@ -1,8 +1,7 @@
-Here's a revised and more organized version of the README file for your "Threads" clone using Flutter and Supabase:
 
 ---
 
-# 🧵 Threads Clone - Flutter & Supabase
+# 📱 Threads Clone - Flutter & Supabase
 
 A modern, feature-rich clone of the "Threads" app built using **Flutter** and **Supabase**. This project demonstrates how to build a real-time social media platform using Flutter for the front end and Supabase as the backend.
 
@@ -99,10 +98,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - your-email@example.com
+Amit Masram - [amitmasram.com](https://twitter.com/Amitmasram10) - amitmasram831@gmail.com
 
 Project Link: [https://github.com/your-username/threads-clone-flutter-supabase](https://github.com/your-username/threads-clone-flutter-supabase)
 
 ---
 
-This version provides a clearer structure and sequence, making it easier to follow for anyone viewing the repository. Feel free to customize it further based on your specific needs!
